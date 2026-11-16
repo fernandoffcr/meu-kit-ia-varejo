@@ -46,10 +46,6 @@ Você não precisa instalar nada nem saber programar. Tudo acontece no navegador
 
 ---
 
-## Minha Entrega
-
-Na sua cópia, abra este README, clique no lápis (**Edit this file**) e role até aqui. Troque cada frase em itálico pelo que você fez e cole o texto dentro dos blocos já prontos. Para pôr um print, é só colar a imagem com Ctrl+V. No fim, clique em **Commit changes**.
-
 ### Minha Tarefa Real
 
 Atuo na liderança operacional de setor no varejo alimentar em regime de escala 6x1. Escolhi a organização semanal da auditoria de validade (PVPS) e reposição crítica de gôndola, pois é uma rotina recorrente que impacta diretamente na redução de quebras/perdas e evita rupturas nos horários de pico sem comprometer o fluxo da equipe.
